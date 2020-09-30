@@ -41,10 +41,6 @@ Zoals bij alles zijn er natuurlijk ook enkele nadelen
 - Lees/schrijfmogelijkheden van de RFID-tag kunnen het mogelijk maken dat er ongemerkt fraude wordt gepleegd;
 
 
-
-
-
-
 ### Soorten 
 
 Er bestaan heel wat verschillende RFID-tags in uiteenlopende vormen en afmetingen. Het kan zijn dat ze alleen kunnen lezen of zowel kunnen lezen en schrijven.
@@ -128,6 +124,13 @@ Dit is een vorm van RFID. Bij RFID draait het vooral om opslag & verzenden van i
 NFC communiceert in 2 richtingen en kan het ontvangen signaal ook zelf verwerken. 
 NFC is een techniek die onder andere toegepast in gsm’s als betaalmiddel of in ticketsystemen. 
 
+
+<!-- ::: tip
+**Wat is het verschil?**
+
+loremipsumhakjrlefqn;sdfnqsdnfjkjzhr
+
+::: -->
 
 ## Bronnen
 

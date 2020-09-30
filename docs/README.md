@@ -1,4 +1,4 @@
-# Onderzoeksdossier Morgane Bekaert
+# Onderzoeksdossier
 ## Morgane Bekaert - 3NMD
 
 
