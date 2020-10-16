@@ -14,18 +14,27 @@ RFID = **Radio-frequency identification.**
 
 Dit is een technologie om van op een afstand informatie op te slaan en af te lezen van tags, die RFID-tags zitten op of in objecten of levende wezens. Bijvoorbeeld in chipkaarten die gebruikmaken van NFC.
 
-Deze technologie maakt gebruik van radiogolven om informatie draadloos op afstand te lezen of te versturen. Deze informatie wordt gelezen door een RFID-reader en daarna verwerkt door intelligente software
-
-NFC is de afkorting voor Near Field Communication. Dit is een vorm van RFID. Bij RFID draait het vooral om opslag & verzenden van informatie in 1 richting. Terwijl 
-NFC communiceert in 2 richtingen en kan het ontvangen signaal ook zelf verwerken. 
-NFC is een techniek die onder andere toegepast in gsm’s als betaalmiddel of in ticketsystemen. 
+Deze technologie maakt gebruik van radiogolven om informatie draadloos op afstand te lezen of te versturen. Deze informatie wordt gelezen door een RFID-reader en daarna verwerkt door intelligente software.
 
 ![Toepassing RFID](https://i.pinimg.com/originals/d5/70/c1/d570c1a132ef3ea1c456fa9f4bfd57c7.jpg)
 
 ### Geschiedenis 
 
+Identificatie door middel van radiosignalen gaat terug tot de Tweede Wereldoorlog. In deze perioden werden vliegtuigen voor het eerst voorzien van radiobakens. Door deze radiobakens konden de vliegtuigen worden geIdentificeerd, zo konden ze onderscheid maken tussen vriend en vijand. 
 
+Radiobakens zijn eigenljk een navigatiehulpmiddel voor de luchtvaart. Het is een radiozendstation op een zee- of luchthaven of langs een luchtroute, dat dient als hulpmiddel om de koers voor schepen en vliegtuigen te bepalen.
 
+De uitvinding wordt dus geassocieerd met het ontwerpen van het IFF-systeem van de Rayal Air Force waarmee de vliegtuigen van de geallieerden geïdentificeerd konden worden.
+
+RFID, hoe we het de dag van vandaag toepassen komt vanuit de jaren 60. Toen waren er twee medewerkers van Philips (Nederlands elektronica concern) die ontdekten hoe chip op afstand konden worden uitgelezen. Er was toen een bedrijg (ID Engineering) die daaruit toepassingen ontwikkelde op het gebied van diefstalpreventie. 
+
+C&A was het eerste bedrijf in Europa dat detectiepoortjes inzette en een RF-etiket bevestigde aan de winkelwaren. 
+
+Een RF-etiket is een zelfklevend etiket waarin een spiraalvormige spoel en een condensator in is verwerkt. Zo'n etiket wordt vaak gebruikt op producten/voorwerpen om winkeldiefstal tegen te gaan. Met zo'n etiket kan er geen enkele unike identificatie gedaan worden van het object waaraan dit soort label is bevestigd. Zo'n etiket toont aan dat het object waaraan het bevestigd is nog eigendom is van de winkel. Wanneer het etiket gedeactiveerd wordt aan de kassa zal de tag niet meer reageren op het elektromagnetisch zendsignaal van de detectiepoortjes aan de uitgang van de winkel. 
+
+Door het toevoegen van een beheersysteem en unieke Electronic Product Code (EPC) kwamen ze tot RFID. 
+
+EPC kan de mogelijke opvolger zijn van de barcode. Het is de nieuwe coderingsgeneratie voor identificatie van producten. Het kan objecten eenduidig identificeren in de logistieke ketern, de code wordt gebruikt op rfid tags.
 
 ### Voordelen & nadelen RFID
 
@@ -59,7 +68,7 @@ Een passieve tag heeft geen eigen energiebron, hij gebruikt ontvangen signalen o
 
 Ze benutten het elektromagnetisch veld van een rader om een stroom te induceren in een spoel, waarmee dan de chip gevoed wordt. 
 
-Deze tags kunnen op verschillende manieren gebruikt worden. bijvoorbeeld tussen een kleeflaag en een papier label → zo worden slimme RFID-labels gemaakt
+Deze tags kunnen op verschillende manieren gebruikt worden. Bijvoorbeeld tussen een kleeflaag en een papier label → zo worden slimme RFID-labels gemaakt
 
 Maar ze kunnen ook geïntegreerd worden in apparaten of verpakkingen.
 
@@ -69,8 +78,8 @@ Maar ze kunnen ook geïntegreerd worden in apparaten of verpakkingen.
 - Gemakkelijker om te produceren dan actieve tag 
 
 ##### Nadelen
-- Niet over een grote afstand (enkele cm tot ong 5m) 
-- Blijven lang leesbaar (zelfs wanneer ze niet meer vasthangen ah voorwerp of al verkocht zijn & dus niet meer getraceerd moeten worden 
+- Niet over een grote afstand (enkele centimeters tot ongeveer 5 meter) 
+- Blijven lang leesbaar (zelfs wanneer ze niet meer vasthangen aan het voorwerp of al verkocht zijn & dus niet meer getraceerd moeten worden)
 - Te klein om sensoren in te plaatsen die werken op elektriciteit 
 
 ![A roll of Passive RFID inlays](https://www.atlasrfidstore.com/product_images/uploaded_images/active-rfid-vs-passive-rfid-2.jpg)
@@ -83,7 +92,7 @@ Ze hebben de mogelijkheid om de real-time locatie van de tag bij te houden
 
 
 ##### Voordelen
-- Ze kunnen een signaal over een grote afstand uitzenden (van 100m tot enkele km)   
+- Ze kunnen een signaal over een grote afstand uitzenden (van 100 meter tot enkele kilomerters)   
 - Sensoren kunnen meteen gebruik maken van de elektriciteit 
 
 ##### Nadelen
@@ -164,3 +173,6 @@ NFC is een techniek die onder andere toegepast in gsm’s als betaalmiddel of in
 loremipsumhakjrlefqn;sdfnqsdnfjkjzhr
 
 ::: -->
+
+[Uitwerking project](https://morgbeka.github.io/onderzoek/#uitwerking) <br>
+[Bronnen](https://morgbeka.github.io/bronnen/#bronnen)
