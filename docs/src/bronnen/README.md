@@ -38,6 +38,11 @@ sidebar: auto
 
 [EPC](https://nl.wikipedia.org/wiki/Electronic_Product_Code)
 
+[Wat is NFC?](https://webuildapps.com/blog/nfc-wat-kan-je-ermee)
+
+[Wat is NFC en waarom zit het op mijn mobiel?](https://www.samsung.com/nl/discover/travel/wat-is-nfc-en-waarom-zit-het-op-mijn-mobiel/)
+
+
 
 ### Uitwerking
 
