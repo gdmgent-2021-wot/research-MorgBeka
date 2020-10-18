@@ -1,5 +1,4 @@
 # Onderzoeksdossier
 ## Morgane Bekaert - 3NMD
 
-
-http://localhost:8080/
+https://morgbeka.github.io/
